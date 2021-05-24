@@ -1,5 +1,0 @@
-constptr
-apple
-pconst
-apple2
-a

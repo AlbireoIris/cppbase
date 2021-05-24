@@ -1,4 +1,0 @@
-StaticClassFun
-staticclass
-nostaticclass
-a
