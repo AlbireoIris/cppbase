@@ -1,0 +1,4 @@
+StaticClassFun
+staticclass
+nostaticclass
+a
