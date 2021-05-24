@@ -1,10 +1,4 @@
-#忽略所有文件
-*
+#增加指定扩展名文件和MAKEFILE
 *.txt
-#增加指定扩展名文件和MAKEFILE文件
-!/*.cpp
-!/*.c
-!/*.h
-!/makefile
-!/README
-!.gitignore
+.vscode
+.history
